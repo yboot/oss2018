@@ -4,7 +4,7 @@ type         : user-session
 track        : DevSecOps 
 status       : no-content
 organizers   : Imran Mohammed A
-participants : Francois Raynaud
+participants : Francois Raynaud, Toby Shelswell
 description  : Using DevSecOps studio to learn and teach Integrating security tools in the SDL
 ---
 
